@@ -1,0 +1,9 @@
+train: smoke_fire_yolo_processed/images/train
+val: smoke_fire_yolo_processed/images/val
+
+nc: 2
+
+# Classes
+names:
+  0 : smoke
+  1 : fire
